@@ -1,4 +1,8 @@
-figs
+figs/
 *.png
 *.vsdx
 *.pkl
+*.npy
+*.npz
+**/logs
+MNIST_data/
