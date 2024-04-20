@@ -6,3 +6,5 @@ figs/
 *.npz
 **/logs
 MNIST_data/
+model/
+attention/
