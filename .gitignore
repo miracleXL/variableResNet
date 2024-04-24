@@ -8,3 +8,5 @@ figs/
 MNIST_data/
 model/
 attention/
+data/
+__pycache__
